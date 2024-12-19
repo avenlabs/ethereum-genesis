@@ -1,0 +1,13 @@
+[{
+    "title": "Maximo Mainnet",
+    "url": "https://mainnet.maximoscan.xyz",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/avenlabs/ethereum-genesis/refs/heads/main/apps/el-gen/other-chain/logo/icon.svg",
+    "isActive": true
+},
+{
+    "title": "Maximo Testnet",
+    "url": "https://testnet.maximoscan.xyz",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/avenlabs/ethereum-genesis/refs/heads/main/apps/el-gen/other-chain/logo/icon.svg",
+}]
